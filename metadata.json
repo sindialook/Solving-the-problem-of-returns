@@ -1,0 +1,5 @@
+{
+  "name": "OCR to Excel",
+  "description": "Capture text and numbers using your camera and export to Excel.",
+  "requestFramePermissions": ["camera"]
+}
